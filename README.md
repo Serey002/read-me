@@ -62,3 +62,13 @@ nav{
     justify-content:center;
 }
 ```
+
+## Check list
+- [x] Home Page
+- [x] About Page
+- [] Product Page
+- [] Contact Page
+
+## Link 
+
+CSS framework: [W3school](https://www.w3schools.com/html/html_forms.asp)
